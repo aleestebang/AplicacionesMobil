@@ -1,3 +1,1 @@
-properties
-sdk.dir=C\:\\Users\\alfre\\AppData\\Local\\Android\\Sdk
-
+g
